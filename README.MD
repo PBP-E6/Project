@@ -19,3 +19,7 @@ TODO   | (backend): API                           | list, detail, search, dan fi
 TODO   | (backend): tracker dan login             | tracker, komparasi, dan autentikasi                          | Ilham Firmansyah (https://github.com/RedStone576)
 TODO   | (frontend): display list dan tracker     | tampilan homepage, list makanan, search, daily tracker       | Arsya Khairunissa (https://github.com/syakhrnss)
 TODO   | (frontend): detail makanan dan layout UI | tampilan detail makan dan keseluruhan UI website             | Rafif Ananta (https://github.com/parmaung)
+
+## Public API/mock API yang akan dipakai
+
+TBA; Akan membuat sendiri dengan _scope_ emisi karbon di Jakarta/bahkan Indonesia.
