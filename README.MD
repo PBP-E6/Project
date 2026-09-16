@@ -13,3 +13,9 @@ Frontend 1 - List & search view: halaman utama, grid/list makanan, search bar, f
 Frontend 2 - Detail & comparison view: halaman detail per makanan (breakdown emisi kalau ada), fitur comparison side-by-side, plus visualisasi (bar chart atau color scale hijau-merah).
 
 Frontend 3 - Layout, styling & halaman pendukung: navigasi, responsive design, shared component (biar Frontend 1 & 2 konsisten visualnya), plus halaman tambahan kayak landing page atau metodologi data.
+
+
+# HELLO
+# Kami dari kelompok PBP-E6 berencana membuat project mengenai carbon footprint dari berbagai jenis makanan. Di dalam website akan ada beberapa makanan beserta deskripsi dan carbon footprintnya. Terdapat fitur search terkait makanan yang mau diexplore. Selain itu, ada sistem drag and down daily food dengan output total carbon footprint. Kami juga berencana untuk membuat sistem login (Ada User) agar dapat bisa mengtrack total carbon footprint dari user.
+
+ William - backend data dan public API ganteng
