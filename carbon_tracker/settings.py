@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c$^7lo=7m*#09kmqzra%$w34shcl^un0e81vgk_v-%@j*e25&(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ilham-naufal-foodprint.pws.cs.ui.ac.id"]
 
 
 # Application definition
