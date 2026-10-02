@@ -24,7 +24,7 @@ Aplikasi ini menyediakan berbagai fitur yang membantu pengguna mulai dari mengen
     - mengelola data emisi karbon 
     - mememoderasi forum.
 
-## 📖 Terminologi
+## Terminologi
 - **Carbon Footprint (Jejak Karbon):** Jumlah total gas rumah kaca (khususnya CO2) yang dihasilkan dari seluruh proses produksi, distribusi, dan konsumsi suatu makanan.
 - **Daily Intake (Asupan Harian):** Daftar total makanan dan minuman yang dikonsumsi oleh seorang pengguna dalam satu hari.
 - **Carbon Goals:** Target personal yang diatur oleh pengguna untuk membatasi jumlah maksimal emisi karbon dari makanan mereka.
@@ -45,6 +45,11 @@ TODO   | Eco-Alternatives Forum / Tips       | CRUD forum saran makanan alternat
 ## Public API/mock API yang akan dipakai
 
 TBA; Akan membuat sendiri dengan _scope_ emisi karbon di Jakarta/bahkan Indonesia.
+
+## Deployment
+
+https://pws.cs.ui.ac.id/web/project/ilham.naufal/foodprint  
+(foodprint == food carbon footprint xixixi)
 
 ## Link Figma
 
